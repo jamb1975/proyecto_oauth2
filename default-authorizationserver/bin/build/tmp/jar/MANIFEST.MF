@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 11.0.14.1 (Oracle Corporation)
+Implementation-Title: samples-default-authorizationserver
+Implementation-Version: 0.3.0-SNAPSHOT
+Automatic-Module-Name: samples.default.authorizationserver
+
